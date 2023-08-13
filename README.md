@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 <style>
-  .background{
+  .bg{
     border-radius: 50%;
     max-width: 100%;
     margin: 0 auto;
   }
 </style>
-<img class="background" align="right" alt="Coding"  width="40%"  height ="300px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
+<img class="bg" align="right" alt="Coding"  width="40%"  height ="300px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
 - 🔭 I’m currently working on [Text-Guided Sketch-to-photo Image Synthesis](https://github.com/priyansh4320/Text-Guided-Sketch-to-photo-Image-Synthesis.git)
 
