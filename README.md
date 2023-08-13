@@ -1,5 +1,5 @@
 [![MasterHead](https://i.gifer.com/QVko.gif)]
-<h1 align="center">Hi </h1> <img>src = "https://i.gifer.com/QVko.gif"</img> <h1>, I'm Priyanshu</h1>
+<h1 align="center">Hi 🐯, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 <img class="bg" align="center" alt="Coding"  width="100%"  height ="500px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
