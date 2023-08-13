@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/116207...)](https://i.gifer.com/QVko.gif)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 
