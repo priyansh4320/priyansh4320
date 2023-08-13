@@ -6,7 +6,7 @@
     border-radius: 20%;   
   }
 </style>
-<img class="background" align="right" alt="Coding" width="30%" src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
+<img class="background" align="right" alt="Coding"  width="30%"  height ="500px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh4320&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh4320" /> </p>
 
