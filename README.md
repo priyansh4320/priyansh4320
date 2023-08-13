@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/QVko.gif)](https://gifer.com/en/QVko)
+
 <h1 align="center">Hi 🐯, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 <img class="bg" align="center" alt="Coding"  width="100%"  height ="500px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
