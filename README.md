@@ -1,9 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
+<img class="bg" align="right" alt="Coding"  width="40%"  height ="300px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
-</style>
-<img class="bg" align="right" alt="Coding"  width="40%"  height ="300px" style="border-radius: 50%"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh4320&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh4320" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="priyansh4320" /></a> </p>
 
 - 🔭 I’m currently working on [Text-Guided Sketch-to-photo Image Synthesis](https://github.com/priyansh4320/Text-Guided-Sketch-to-photo-Image-Synthesis.git)
 
