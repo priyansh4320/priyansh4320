@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 <style>
   .bg{
-    border-radius: 20%;   
+    border-radius: 50%;   
   }
 </style>
 <img class="background" align="right" alt="Coding"  width="40%"  height ="300px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
