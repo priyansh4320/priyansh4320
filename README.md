@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/QVko.gif)]
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
-<img class="bg" align="center" alt="Coding"  width="100%"  height ="300px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
+<img class="bg" align="center" alt="Coding"  width="100%"  height ="500px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="priyansh4320" /></a> </p>
 
