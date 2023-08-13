@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 <style>
-  .bg{
-    border-radius: 50%;   
+  .background{
+    border-radius: 50%;
+    max-width: 100%;
+    margin: 0 auto;
   }
 </style>
 <img class="background" align="right" alt="Coding"  width="40%"  height ="300px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
