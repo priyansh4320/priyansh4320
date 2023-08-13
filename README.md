@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_creating_art_-_artistic_flowing__626e5b84-c444-4697-9565-75fd3ffbfb78.png?fit=1728%2C864&strip=all](https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_creating_art_-_artistic_flowing__626e5b84-c444-4697-9565-75fd3ffbfb78.png?fit=750%2C375&strip=all)">
+<img  src="[https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_creating_art_-_artistic_flowing__626e5b84-c444-4697-9565-75fd3ffbfb78.png?fit=1728%2C864&strip=all](https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_creating_art_-_artistic_flowing__626e5b84-c444-4697-9565-75fd3ffbfb78.png?fit=750%2C375&strip=all)">
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh4320&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh4320" /> </p>
