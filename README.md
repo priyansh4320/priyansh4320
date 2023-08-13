@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/priyansh4320/priyansh4320/blob/main/5IUl.gif)]
+![MasterHead](https://github.com/priyansh4320/priyansh4320/blob/main/5IUl.gif)
 
 <h1 align="center">Hi 🐯, I'm Priyanshu</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
