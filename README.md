@@ -6,7 +6,7 @@
     border-radius: 20%;   
   }
 </style>
-<img class="background" align="right" alt="Coding"  width="40%"  height ="500px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
+<img class="background" align="right" alt="Coding"  width="40%"  height ="300px"    src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
 - 🔭 I’m currently working on [Text-Guided Sketch-to-photo Image Synthesis](https://github.com/priyansh4320/Text-Guided-Sketch-to-photo-Image-Synthesis.git)
 
