@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyansh4320](https://github.com/priyansh4320)
 
-- 💬 Ask me about **Machine Learning problems, python issues, c++ issues, Data Preparations etc.**
+- 💬 Ask me about **Full Stack Development, Project issues, Agent Architechtures , Multiagent Workflows etc.**
 
 - 📫 How to reach me **priyanshudeshmukh4@gmail.com**
 
