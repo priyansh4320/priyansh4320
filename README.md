@@ -8,13 +8,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Text-Guided Sketch-to-photo Image Synthesis](https://github.com/priyansh4320/Text-Guided-Sketch-to-photo-Image-Synthesis.git)
-
-- 🌱 I’m currently learning **Genrative AI, Contextual GAN(CT-GAN),(GAN)**
-
-- 👯 I’m looking to collaborate on **AI, ML, DL and DATA Engineering projects**
-
-- 🤝 I’m looking for help with [python , c++ , Image synthesis.](https://github.com/priyansh4320/Text-Guided-Sketch-to-photo-Image-Synthesis.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyansh4320](https://github.com/priyansh4320)
 
