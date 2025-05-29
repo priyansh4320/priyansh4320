@@ -1,31 +1,53 @@
+<h1 align="center">Hi 🐯, I'm Priyanshu Deshmukh</h1>
+<h3 align="center">Software Engineer | India 🇮🇳</h3>
+<img class="bg" align="center" alt="Coding" width="100%" height="500px" style="border-radius: 50px;" src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
-<h1 align="center">Hi 🐯, I'm Priyanshu</h1>
-<h3 align="center">A passionate DATA SCIENTIST from India</h3>
-<img class="bg" align="center" alt="Coding"  width="100%"  height ="500px" style="border-radius: 50"   src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="priyansh4320" /></a> </p>
-<br>
-<br>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/priyansh4320](https://github.com/priyansh4320)
-
-- 💬 Ask me about **Full Stack Development, Project issues, Agent Architechtures , Multiagent Workflows etc.**
-
-- 📫 How to reach me **priyanshudeshmukh4@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/priyanshudeshmukh/](https://www.linkedin.com/in/priyanshudeshmukh/)
-
-- ⚡ Fun fact **I love to ARM Wrestle , and Working out, and I AM a follower of DAVID GOGGIN. "Stay Hard".**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshudeshmukh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshudeshmukh/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/priyanshudeshmukh4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshudeshmukh4/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/priyanshudeshmukh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/priyanshudeshmukh4" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="GitHub Trophies" />
+  </a>
 </p>
-<br>
-<br>
+
+---
+
+- 👨‍💻 Currently working at **Alvyl Consulting** as a **Software Development Engineer**
+- 🎓 Pursuing **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
+- 🛠️ **Tech Stack:** Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j
+- ⚙️ **Systems Worked On:**
+  - Multi-Agent Chat with LangGraph
+  - Supervisor and Intent-based Multi-Agent Architectures
+  - Multi-RAG Query Engine (Vector, GraphRAG, Structured RAG)
+  - Dynamic Table Design for Structured RAG Databases
+  - Generalised Prompt Engineering to eliminate hallucinations
+  - Generative UI for report rendering in chat interfaces
+  - MCP Service for Code Analysis with Semgrep
+  - CDN Detection Agents and Cloud Security Dashboards
+- 📄 Published a **Survey Paper** on *"Advancements in Generative Modeling: A Comprehensive Survey of GANs and Diffusion Models for Text-to-Image Synthesis and Manipulation"*
+
+---
+
+### 📫 Reach Me At:
+- Email: **priyanshu@alvyl.com** | **priyanshudeshmukh4@gmail.com**
+- LinkedIn: [linkedin.com/in/priyanshudeshmukh](https://www.linkedin.com/in/priyanshudeshmukh/)
+
+---
+
+### 🔗 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshudeshmukh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
+  </a>
+  <a href="https://leetcode.com/priyanshudeshmukh4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/priyanshudeshmukh4" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="30" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+**I love arm wrestling 💪, working out 🏋️, and I follow David Goggins.**  
+_"Stay Hard."_ 🔥
+
