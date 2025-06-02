@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Reach Me At:
-- Email: **priyanshu@alvyl.com** | **priyanshudeshmukh4@gmail.com**
+- Email: **priyanshu@alvyl.com** 
 - LinkedIn: [linkedin.com/in/priyanshudeshmukh](https://www.linkedin.com/in/priyanshudeshmukh/)
 
 ---
