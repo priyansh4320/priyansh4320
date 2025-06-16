@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐯, I'm Priyanshu Deshmukh</h1>
-<h3 align="center">Software Engineer | India 🇮🇳</h3>
+<h3 align="center">AI Engineer | India 🇮🇳</h3>
 <img class="bg" align="center" alt="Coding" width="100%" height="500px" style="border-radius: 50px;" src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-size_restricted.gif">
 
 <p align="center">
