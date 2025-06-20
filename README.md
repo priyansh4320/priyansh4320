@@ -11,8 +11,8 @@
 ---
 
 - 👨‍💻 Currently working at **Alvyl Consulting** as a **AI Engineer**
-- 🎓 Pursuing **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
-- 🛠️ **Tech Stack:** Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j
+- 🎓 **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
+- 🛠️ **Tech Stack:** Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j, Ollama
 - ⚙️ **Systems Worked On:**
   - Multi-Agent Chat with LangGraph
   - Supervisor and Intent-based Multi-Agent Architectures
