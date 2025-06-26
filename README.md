@@ -10,7 +10,7 @@
 
 ---
 
-- 👨‍💻 Currently working at **Alvyl Consulting** as a **AI Engineer**
+- 👨‍💻 worked at **Alvyl Consulting** as a **AI Engineer**
 - 🎓 **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
 - 🛠️ **Tech Stack:** Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j, Ollama
 - ⚙️ **Systems Worked On:**
