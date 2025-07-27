@@ -27,7 +27,6 @@
 ---
 
 ### 📫 Reach Me At:
-- Email: **priyanshudeshmukh4@gmail.com** 
 - LinkedIn: [linkedin.com/in/priyanshudeshmukh](https://www.linkedin.com/in/priyanshudeshmukh/)
 
 ---
