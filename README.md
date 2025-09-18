@@ -8,7 +8,7 @@
 
 ---
 
-- 👨‍💻 worked at **Alvyl Consulting** as a **AI Engineer**
+-  **AI Engineer**
 - 🎓 **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
 - 🛠️ **Tech Stack:** AG2 ,Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j, Ollama
 - ⚙️ **Systems Worked On:**
@@ -34,17 +34,9 @@
   <a href="https://www.linkedin.com/in/priyanshudeshmukh/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
-  <a href="https://leetcode.com/priyanshudeshmukh4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/priyanshudeshmukh4" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="30" />
-  </a>
+
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-**I love arm wrestling 💪, working out 🏋️, and I follow David Goggins.**  
-_"Stay Hard."_ 🔥
-
