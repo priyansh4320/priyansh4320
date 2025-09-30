@@ -5,23 +5,95 @@
     <img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="GitHub Trophies" />
   </a>
 </p>
+---
+# Priyanshu Deshmukh
+
+**AI Engineer & Maintainer @ [AG2 (AutoGen)](https://github.com/ag2ai/ag2)**
+
+Building production-scale multi-agent systems and enterprise AI architectures. Contributing to AG2, the leading open-source multi-agent conversation framework serving 20,000+ developers globally.
+
+**Contact:** priyanshu@ag2.ai | priyanshudeshmukh4@gmail.com | Hyderabad, India
 
 ---
 
--  **AI Engineer**
-- 🎓 **B.E. in Computer Science and Engineering** at Prof. Ram Meghe College of Engineering and Management (2021–2024) — **GPA: 8.56**
-- 🛠️ **Tech Stack:** AG2 ,Python, TypeScript, React, Langchain, Langgraph, Docker, Git, SQL, PostgreSQL, Pinecone, Neo4j, Ollama
-- ⚙️ **Systems Worked On:**
-  - Multi-Agent Chat with LangGraph
-  - Supervisor and Intent-based Multi-Agent Architectures
-  - Multi-RAG Query Engine (Vector, GraphRAG, Structured RAG)
-  - Dynamic Table Design for Structured RAG Databases
-  - Generalised Prompt Engineering to eliminate hallucinations
-  - Generative UI for report rendering in chat interfaces
-  - MCP Service for Code Analysis with Semgrep
-  - CDN Detection Agents and Cloud Security Dashboards
-- 📄 Published a **Survey Paper** on *"Advancements in Generative Modeling: A Comprehensive Survey of GANs and Diffusion Models for Text-to-Image Synthesis and Manipulation"*
+## Current Work
 
+**AG2 (AutoGen)** - AI Engineer & Maintainer (Jul 2025 - Present)
+
+Driving innovation in multi-agent orchestration, RAG architectures, and enterprise AI infrastructure:
+
+- **Multi-Agent Systems:** Engineered production-ready workflows with dynamic message routing, intelligent state management, and autonomous coordination protocols. Implemented agent coordination mechanisms enabling seamless collaboration between specialized agents.
+
+- **Advanced RAG:** Pioneered multi-modal RAG query engine integrating Vector RAG, Graph RAG, and Structured RAG. Built self-adaptive database schemas that evolve based on data patterns. Optimized retrieval with Neo4j integration for sub-second response times.
+
+- **Enterprise Infrastructure:** Built MCP (Model Context Protocol) services for automated code analysis with Semgrep integration. Created generative UI components for dynamic report rendering. Deployed CDN detection agents and cloud security dashboards.
+
+- **Technical Leadership:** Advanced prompt engineering methodologies to eliminate LLM hallucinations in production systems. Contributed to AG2 core development focusing on performance optimization and enterprise deployment patterns. Mentored 50+ developers on implementation patterns.
+
+---
+
+## Previous Experience
+
+**Alvyl Consulting** - AI Engineer (Aug 2024 - Jul 2025)
+
+Architected FusionSecurity.ai, an enterprise-grade multi-agent security intelligence platform for Fortune 500 clients:
+
+- Designed LangGraph-powered architecture with specialized role-based agents processing daily security events with high uptime
+- Implemented hierarchical Supervisor Agent orchestration distributing tasks across 15+ specialized sub-agents in containerized AWS/Kubernetes environments
+- Engineered multi-modal RAG system combining vector search, graph relationships, and structured data analysis
+- Built self-evolving threat intelligence database with dynamic schema expansion
+- Deployed containerized microservices supporting mission-critical security monitoring
+- Integrated Semgrep SAST scanning in CI/CD pipelines
+- Developed multi-cloud metadata analysis agents for AWS/Azure/GCP compliance monitoring
+
+**Freelance AI/ML Solutions Architect** (2022 - 2024)
+
+Delivered AI transformation solutions for BlackCoffer, Digipplus, PrecilyAI, and UniAcco. Built scalable ML pipelines with end-to-end MLOps integration.
+
+---
+
+## Technical Expertise
+
+**Core Competencies**
+- Multi-Agent Orchestration (AG2/AutoGen, LangGraph)
+- Advanced RAG Systems (Vector, Graph, Structured)
+- LLM Integration & Prompt Engineering
+- Enterprise AI Security & Automation
+
+**Infrastructure & Tools**
+- Cloud Platforms: AWS, Azure, GCP, Kubernetes
+- Databases: Neo4j, Vector Databases
+- Security: Semgrep, SAST Integration
+- CI/CD & MLOps Pipelines
+
+**Architecture**
+- Cloud-Native Microservices
+- Production AI Systems
+- Performance Engineering
+- Security Intelligence Platforms
+
+---
+
+## Education
+
+**Prof. Ram Meghe College of Engineering & Management**  
+Bachelor of Engineering, Computer Science (2021 - 2024)
+
+**Y.B. Patil Polytechnic**  
+Diploma in Computer Engineering
+
+---
+
+## Publications & Impact
+
+- Published IEEE research on AI systems
+- Contributing to framework serving 20,000+ developers
+- Mentored 50+ community developers on multi-agent architecture
+- Open-source contributions to AG2 core development
+
+---
+
+**Building intelligent systems that bridge cutting-edge AI research with production deployment.**
 ---
 
 ### 📫 Reach Me At:
