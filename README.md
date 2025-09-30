@@ -12,7 +12,7 @@
 
 Building production-scale multi-agent systems and enterprise AI architectures. Contributing to AG2, the leading open-source multi-agent conversation framework serving 20,000+ developers globally.
 
-**Contact:** priyanshu@ag2.ai | priyanshudeshmukh4@gmail.com | Hyderabad, India
+**Contact:** [Link](https://www.linkedin.com/in/priyanshudeshmukh/) | Hyderabad, India
 
 ---
 
