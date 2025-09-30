@@ -74,16 +74,6 @@ Delivered AI transformation solutions for BlackCoffer, Digipplus, PrecilyAI, and
 
 ---
 
-## Education
-
-**Prof. Ram Meghe College of Engineering & Management**  
-Bachelor of Engineering, Computer Science (2021 - 2024)
-
-**Y.B. Patil Polytechnic**  
-Diploma in Computer Engineering
-
----
-
 ## Publications & Impact
 
 - Published IEEE research on AI systems
