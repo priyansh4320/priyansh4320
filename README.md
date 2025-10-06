@@ -34,7 +34,7 @@ Driving innovation in multi-agent orchestration, RAG architectures, and enterpri
 
 ## Previous Experience
 
-**Alvyl Consulting** - AI Engineer (Aug 2024 - Jul 2025)
+**Alvyl Consulting** - Software Engineer (AI) (Aug 2024 - Jul 2025)
 
 Architected FusionSecurity.ai, an enterprise-grade multi-agent security intelligence platform for Fortune 500 clients:
 
