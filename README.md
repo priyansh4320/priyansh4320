@@ -2,8 +2,7 @@
 <h3 align="center">AI Engineer | India 🇮🇳</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyansh4320" alt="GitHub Trophies" />
-   <img src="https://github-profile-trophy-l1o7p9opu-ryo-ma-s-team.vercel.app/?username=priyansh4320"/>
+    <img src="https://github-profile-trophy-l1o7p9opu-ryo-ma-s-team.vercel.app/?username=priyansh4320" alt="GitHub Trophies" />
   </a>
 </p>
 
