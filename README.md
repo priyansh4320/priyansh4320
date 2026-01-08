@@ -148,6 +148,7 @@ Delivered AI transformation solutions for BlackCoffer, Digipplus, PrecilyAI, and
 
 ### 📫 Reach Me At:
 - LinkedIn: [linkedin.com/in/priyanshudeshmukh](https://www.linkedin.com/in/priyanshudeshmukh/)
+- priyanshudeshmukh4@gmail.com
 
 ---
 
