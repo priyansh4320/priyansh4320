@@ -19,17 +19,76 @@ Building production-scale multi-agent systems and enterprise AI architectures. C
 
 ## Current Work
 
-**AG2 (AutoGen)** - AI Engineer & Maintainer (Jul 2025 - Present)
+**AG2 (AutoGen) — AI Engineer & Maintainer**
 
-Driving innovation in multi-agent orchestration, RAG architectures, and enterprise AI infrastructure:
+**Jul 2025 – Present**
 
-- **Multi-Agent Systems:** Engineered production-ready workflows with dynamic message routing, intelligent state management, and autonomous coordination protocols. Implemented agent coordination mechanisms enabling seamless collaboration between specialized agents.
+Core maintainer and AI systems engineer for AG2’s multi-agent orchestration platform. Owned integration of frontier LLM capabilities (GPT-5 series), production-grade tooling for safe code edits, concurrency-safe agent runtimes, and document-scale RAG capabilities. Drove refactors that improved agent correctness, observability, and throughput while producing tutorials and docs that accelerated adoption.
 
-- **Advanced RAG:** Pioneered multi-modal RAG query engine integrating Vector RAG, Graph RAG, and Structured RAG. Built self-adaptive database schemas that evolve based on data patterns. Optimized retrieval with Neo4j integration for sub-second response times.
+---
 
-- **Enterprise Infrastructure:** Built MCP (Model Context Protocol) services for automated code analysis with Semgrep integration. Created generative UI components for dynamic report rendering. Deployed CDN detection agents and cloud security dashboards.
+**1) GPT-5 series, `apply_patch` & shell-tool support (Top-priority — hiring signal)**
 
-- **Technical Leadership:** Advanced prompt engineering methodologies to eliminate LLM hallucinations in production systems. Contributed to AG2 core development focusing on performance optimization and enterprise deployment patterns. Mentored 50+ developers on implementation patterns.
+* **GPT-5 & GPT-5.2 model enablement** — Added full GPT-5.2 model support and reasoning-effort configuration so AG2 agents can use higher-fidelity reasoning modes (including `xhigh`) and the Responses API when required. This work updated model enums, pricing/effort mappings, and the responses client to accept new parameters. 🔗 PR [#2250]. ([GitHub][1])
+  *Why it matters:* Enables hiring teams to see you shipped forward-compatible LLM support and reasoning controls used in production agent decision-making.
+
+* **GPT-5.1 `apply_patch` tool support (Responses API)** — Implemented support for GPT-5.1’s `apply_patch` tool (V4A diff/patch format) enabling agents to emit structured, actionable multi-file diffs that can be programmatically applied (safe autonomous refactoring, targeted bugfix patches, CI-friendly edits). Also delivered example tutorial/notebook to demonstrate the pattern. 🔗 PR [#2213]. ([GitHub][2])
+  *Tech & skills:* tool-calling design, structured output parsing, patch application safety, tests for diff format handling.
+  *Hiring signal:* shows you built automation that replaces brittle text-based code gen with auditable, deterministic edit operations.
+
+* **Shell tool / tool concurrency support** — Implemented shell/tool execution improvements so agent tool calls (including shell) are concurrency-safe and return machine-parseable structured outputs for chaining. This reduced deadlocks/race conditions in pipeline runs and made tool outputs deterministic for planners. 🔗 PR reference: shell/tool work collection (see PR list). ([GitHub][3])
+  *Tech & skills:* concurrency safety, tool contract design, deterministic output formats.
+
+---
+
+**2) Provider & infra resilience (Bedrock, Gemini, Ollama)**
+
+* **AWS Bedrock resilience & structured outputs** — Added exponential backoff and retry strategies at the Bedrock provider layer and Bedrock structured-output handling so transient failures don’t cascade into agent crashes and downstream parsers consistently receive JSON/structured responses. 🔗 PR [#2292] (mentioned across PRs/listings).
+  *Why it matters:* Production readiness for enterprise clouds.
+
+* **Gemini: ThinkingConfig / reasoning controls** — Extended ThinkingConfig support to Gemini models so AG2 can control depth/latency of Gemini reasoning and capture "thought signatures" for better traceability in multi-step planning. 🔗 PR [#2254]. ([GitHub][4])
+  *Tech & skills:* provider abstraction, reasoning controls, cross-provider parity.
+
+* **Ollama validation fixes** — Fixed LLMConfig validation paths that previously caused runtime errors when `native_tool_calls` were enabled, preventing misconfiguration crashes. 🔗 PR [#1951].
+  *Skills:* config validation, cross-provider stability.
+
+---
+
+**3) DocAgent — architecture, dynamic RAG, and high-throughput document workflows**
+
+* **DocAgent architecture optimization (threading, concurrent ingest, supervisor)** — Simplified and optimized DocAgent internals: added a `ThreadPoolExecutor` for tool execution, a pseudo-supervisor for task orchestration, concurrent document ingestion, citation support, and flexible inner-agent prompting to greatly improve ingestion throughput and query latency. 🔗 PR [#2097]. ([GitHub][5])
+  *Technical highlights:* concurrent ingestion pipelines, thread pools for I/O-bound tasks, scalable supervisor pattern, test scenarios for long-document ingestion.
+
+* **Dynamic RAG (Vector + Graph / Neo4j integration + aggregator)** — Extended DocAgent beyond vector RAG by adding Graph RAG support (Neo4j) and a dynamic `rag_config` to select/aggregate results from vector and graph retrievals. This enables multi-hop, relationship-aware queries and a result aggregator for combined RAG outputs. 🔗 PR [#2105]. ([GitHub][6])
+  *Why it matters:* Demonstrates system design for hybrid retrieval (vector + graph) and shows you enabled sub-second, multi-hop retrieval patterns valuable in enterprise search.
+
+---
+
+**4) Agent runtime refactors, networking & message model improvements**
+
+* **ConversableAgent refactor (message flow & API consistency)** — Refactored ConversableAgent internals to enforce consistent message list APIs, clarify state transitions, and improve extensibility for multi-turn scenarios. 🔗 PR [#2086]. ([GitHub][7])
+  *Skills:* API design, state-machine clarity, multi-turn correctness.
+
+* **Agent networking / list[messages] API enforcement** — Standardized `list[messages]` semantics across agent messaging, improving inter-agent communication and easing integration with group chat / networking scenarios. 🔗 PR [#2081]. ([GitHub][8])
+
+* **ParallelAgentRunner / concurrency orchestration** — Built `ParallelAgentRunner` to run agents in parallel safely (thread/process coordination, result aggregation, cancellation semantics), improving throughput for batched workflows. 🔗 PR [#2143]. ([GitHub][9])
+  *Tech & skills:* concurrency patterns, cancellation semantics, thread-safe result aggregation.
+
+
+**5) Reliability, fixes & dependency hygiene**
+
+* **Memory / long-context stability** — Replaced brittle long-context paths and added safer concurrency patterns to avoid context overwrites in document agents (used in the DocAgent refactors above). (See DocAgent PRs #2097 / #2105.) ([GitHub][5])
+
+* **Dependency & resolver hardening** — Switched pinned dependencies to ranges where appropriate and fixed async validation issues across providers to reduce release friction and unexpected breakages. (Referenced across PR list.)
+
+
+**6) Docs, tutorials & community enablement**
+
+* **Apply-patch tutorial & notebook** — Published a tutorial demonstrating GPT-5.1 `apply_patch` flows in AG2 to help integrators build safe code-editing agents (linked from release notes). 🔗 PR [#2213] (release notes & tutorial). ([GitHub][2])
+
+* **DocAgent & Dynamic RAG notebooks** — Added sample notebooks showing concurrent ingestion, dynamic RAG configuration, and example runs — useful in interviews and technical screen walkthroughs. 🔗 PRs [#2097], [#2105]. ([GitHub][5])
+
+* **Developer DX (devcontainer, logging, hooks)** — Added a Python 3.14 devcontainer to standardize contributor environments and documented lifecycle hooks (`process_message_before_send`) so downstream teams can plug custom logic into message pipelines.
 
 ---
 
