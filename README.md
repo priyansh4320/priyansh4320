@@ -94,7 +94,7 @@ Core maintainer and AI systems engineer for AG2’s multi-agent orchestration pl
 
 ## Previous Experience
 
-**Alvyl Consulting** - Software Engineer (AI) (Aug 2024 - Jul 2025)
+**Alvyl** - Software Engineer (AI) (Aug 2024 - Jul 2025)
 
 Architected FusionSecurity.ai, an enterprise-grade multi-agent security intelligence platform for Fortune 500 clients:
 
