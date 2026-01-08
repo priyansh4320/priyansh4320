@@ -27,7 +27,7 @@ Core maintainer and AI systems engineer for AG2’s multi-agent orchestration pl
 
 ---
 
-**1) GPT-5 series, `apply_patch` & shell-tool support (Top-priority — hiring signal)**
+**1) GPT-5 series, `apply_patch` & shell-tool support**
 
 * **GPT-5 & GPT-5.2 model enablement** — Added full GPT-5.2 model support and reasoning-effort configuration so AG2 agents can use higher-fidelity reasoning modes (including `xhigh`) and the Responses API when required. This work updated model enums, pricing/effort mappings, and the responses client to accept new parameters. 🔗 PR [#2250]. ([GitHub][1])
   *Why it matters:* Enables hiring teams to see you shipped forward-compatible LLM support and reasoning controls used in production agent decision-making.
