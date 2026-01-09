@@ -115,7 +115,7 @@ Delivered AI transformation solutions for BlackCoffer, Digipplus, PrecilyAI, and
 **Core Competencies**
 - AI Pattern Research
 - System Design, Low-level AI, and networking
-- Multi-Threading, Optimisation, and HPC
+- Multi-Threading, Optimisation
 - OpenAI SDK, AWS Converse, anthropic SDK, Gemini API, Ollama, Huggingface, i.e, (Client-Side Development). 
 - Multi-Agent Orchestration (AG2/AutoGen, LangGraph)
 - Advanced RAG Systems (Vector, Graph, Structured)
