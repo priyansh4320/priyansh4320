@@ -29,6 +29,8 @@ Core maintainer and AI systems engineer for AG2’s multi-agent orchestration pl
 
 **1) GPT-5 series, `apply_patch` & shell-tool support**
 
+- **OpenAI Resposne, Gemini, Bedrock client support** - Implement v2 ModelClient Protocal for mentioned clients , supporting Rich Multimodalities , such as text, image, etc, added back compatibility along with detailed Documentatiton and example notebook updates.  PR : [#2357](https://github.com/ag2ai/ag2/pull/2357)
+
 * **GPT-5 & GPT-5.2 model enablement** — Added full GPT-5.2 model support and reasoning-effort configuration so AG2 agents can use higher-fidelity reasoning modes (including `xhigh`) and the Responses API when required. This work updated model enums, pricing/effort mappings, and the responses client to accept new parameters. 🔗 PR [#2250]. ([GitHub][1])
 
 * **GPT-5.1 `apply_patch` tool support (Responses API)** — Implemented support for GPT-5.1’s `apply_patch` tool (V4A diff/patch format) enabling agents to emit structured, actionable multi-file diffs that can be programmatically applied (safe autonomous refactoring, targeted bugfix patches, CI-friendly edits). Also delivered example tutorial/notebook to demonstrate the pattern. 🔗 PR [#2213]. ([GitHub][2])
